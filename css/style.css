@@ -1,0 +1,13 @@
+a{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+ul li ul{
+    display: none;
+}
+
+.open{
+    display: block;
+}
